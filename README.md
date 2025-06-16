@@ -192,16 +192,16 @@ gantt
     title Pengembangan Prediksi Biaya Haji
     dateFormat  YYYY-MM-DD
     section Phase 1
-    Data Collection    :done, des1, 2024-01-01,2024-03-01
-    Model Development  :done, des2, 2024-02-01, 2024-04-01
-    Basic UI          :done, des3, 2024-03-01, 2024-05-01
+    Data Collection    :done, des1, 2025-06-14,2025-06-14
+    Model Development  :done, des2, 2025-06-15, 2025-06-13
+    Basic UI          :done, des3, 2025-06-15, 2025-06-13
     section Phase 2
-    RAG Integration   :done, des4, 2024-04-01, 2024-06-01
-    Advanced Analytics:active, des5, 2024-05-01, 2024-07-01
+    RAG Integration   :done, des4, 2025-06-15, 2025-06-13
+    Advanced Analytics:active, des5, 2025-06-15, 2025-06-13
     section Phase 3
-    Real-time API     :des6, 2024-06-01, 2024-08-01
-    Mobile App        :des7, 2024-07-01, 2024-09-01
-    Multi-language    :des8, 2024-08-01, 2024-10-01
+    Real-time API     :des6, 2025-06-15, 2025-06-13
+    Mobile App        :des7, 2026-07-01, 2026-09-01
+    Multi-language    :des8, 2026-08-01, 2026-10-01
 ```
 
 </div>
