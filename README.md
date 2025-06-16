@@ -162,7 +162,7 @@ streamlit run app.py
 
 <div align="center">
 
-🎉 **Boom!** Buka `http://localhost:8501` dan nikmati aplikasinya!
+🎉 **Boom!** Buka `https://prediksibiayahaji.streamlit.app/` dan nikmati aplikasinya!
 
 </div>
 
@@ -256,7 +256,7 @@ gantt
 |--------|------|--------|-------------|
 | 🏛️ **Keppres RI** | Official Decree | 2016-2025 | ![Verified](https://img.shields.io/badge/Verified-brightgreen) |
 | 📊 **Kemenag RI** | Statistical Data | 2016-2025 | ![Official](https://img.shields.io/badge/Official-blue) |
-| 💱 **Bank Indonesia** | Exchange Rates | Real-time | ![Live](https://img.shields.io/badge/Live-orange) |
+| 💱 **https://finnhub.io/** | Exchange Rates | Real-time | ![Live](https://img.shields.io/badge/Live-orange) |
 
 ---
 
@@ -384,7 +384,7 @@ Interested in using this for commercial purposes? Let's talk!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mshadianto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mshadianto)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms.hadianto@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sopian.hadianto@gmail.com)
 
 *"Building AI solutions for better Indonesia 🇮🇩"*
 
@@ -399,6 +399,7 @@ Interested in using this for commercial purposes? Let's talk!
 **Special Thanks To:**
 
 - 🏛️ **Kementerian Agama RI** - Data resmi BPIH
+- 🏛️ **Patria&Co** - RAG & Agentic AI Training Center
 - 🤝 **Open Source Community** - Tools & libraries
 - 🧠 **Machine Learning Community** - Knowledge sharing
 - 🕌 **Future Hajj Pilgrims** - Inspiration for this project
