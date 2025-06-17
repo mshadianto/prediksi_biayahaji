@@ -63,7 +63,7 @@ print(predict_hajj_cost(2026))
 
 ![Demo Animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-*Placeholder untuk demo GIF - Rekam screencast aplikasi Anda dan ganti link ini*
+*Placeholder untuk demo GIF *
 
 [![Demo Button](https://img.shields.io/badge/🚀_Coba_Demo_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://hajj-prediction.streamlit.app)
 
